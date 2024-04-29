@@ -158,3 +158,20 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.quote-container{
+    border: pink 1px solid;
+    width: 400px;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+}
+
+.quote-name{
+    border: blue 1px solid;
+    display: flex;
+    justify-content: flex-end;
+}
