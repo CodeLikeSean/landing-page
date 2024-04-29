@@ -1,1 +1,2 @@
 # landing-page
+This project was a compilation of all of the things I have learnt in html and css in order to create one big landing page. It challenged me on how to position things with flex box, how to add styles to text and tinker with borders and border radius. It also taught me out to take things step by step by working section by section instead of working on everything at once. it was very insightful and fulfilling :)
