@@ -7,6 +7,7 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    
 }
 
 .section-one{
@@ -175,4 +176,55 @@ button{
     color: #e63946;
     font-weight: 900;
     margin-top: 10px;
+}
+
+.section-four{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    width: 800px;
+    height: 150px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sign-up-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.sign-up-there{
+    font-size: 13px;
+    color: #e3e7ee;
+}
+
+.call-to-action{
+    font-size: 17px;
+    font-weight: 900;
+}
+
+.button-two{
+    border: white 2px solid;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    height: 70px;
 }
